@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joshah@hotmail.co.uk
+	name = Josh Hartshorne
